@@ -1,6 +1,3 @@
-# LFA.Laboratory.Works
-Formal Languages and Finite Automata laboratory works
-
 # Grammar and Finite Automaton Implementation
 
 This Java project demonstrates the implementation of a grammar and its conversion into a finite automaton.
@@ -9,10 +6,10 @@ This Java project demonstrates the implementation of a grammar and its conversio
 
 The project consists of two main classes:
 
-1. `Grammar`: Represents a context-free grammar and provides methods to generate strings from the grammar.
+1. `Grammar`: Represents context-free grammar and provides methods to generate strings from the grammar.
 2. `FiniteAutomaton`: Represents a finite automaton and provides a method to check if a given string belongs to the language described by the automaton.
 
-Additionally, there is a helper class `Pair` used to represent pairs of characters in the finite automaton's transition function.
+Additionally, a helper class `Pair` is used to represent pairs of characters in the finite automaton's transition function.
 
 ## Usage
 
